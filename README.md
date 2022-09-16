@@ -1,2 +1,7 @@
 # AhmetUtn-Bootstarp-music-site
-![Bootstrap](s.png)
+## Anasayfa
+![Bootstrap](image/home.png)
+## Ürünler
+![Bootstrap](image/products.png)
+## Hakkımızda
+![Bootstrap](image/about.png)
